@@ -1,0 +1,13 @@
+@charset "UTF-8"; 
+
+@media all {
+    *{
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0;
+    }
+}
+
+@media screen and (orientacion:portrait) {
+    background-image: url(../);
+}
